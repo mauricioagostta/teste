@@ -1,0 +1,50 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    h1{
+        font-weight: 350px;
+    }
+
+    h2{
+        font-size: 35px;
+        text-align: center;
+        line-height: 5px;
+    }
+
+    img{
+        width: 380px;
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    ul{
+        text-align: center;
+        line-height: 1px;
+    }
+
+    #title{
+        flex-direction: column;
+        line-height: 9px;
+        font-style: unset;
+        width: 350px;
+        align-items: center;
+        text-align: center;
+        background-color: gold;
+    color: rgb(0, 0, 0);
+    }
+
+    
+    p{
+        padding-top: 1px;
+        padding-bottom: 10px;
+        margin: 0px auto;
+        text-align: center;
+    }
+}
