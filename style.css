@@ -70,3 +70,51 @@ img{
     width: 480px;
         
 }
+
+.dia_semana{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin: 0px;
+    text-decoration-line: underline;
+    background-color: #f5b400;
+    padding: 5px;
+  }
+
+  .trabalhando{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(0, 26, 255);
+    margin: 10px;
+    font-style: initial;
+  }
+
+  .titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    background-color: #fffb06e1;
+    margin: 0;
+  }
+
+.escala01{
+    background-color: rgb(214, 212, 212);
+  }
+
+  .tipo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    background-color: #eee9e9;
+  }
+
+  .nome{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    text-align: left;
+    padding-left: 20px;
+  }
